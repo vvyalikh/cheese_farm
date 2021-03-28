@@ -1,0 +1,192 @@
+html{
+    /* font-family: Arial, Helvetica, sans-serif;*/
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+/*Header*/
+header{
+    margin:auto;
+    height: 64px;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.header-left {
+    color: #2E4053;
+    font-size: 32px;
+    display: inline-block;
+    padding-top: 14px;
+}
+.farm_name{
+    color:#85929E;   }
+
+.header-right {
+    float:right;
+    margin-right: 8px;
+    width: auto;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    float:right;
+}
+li a{
+    display:inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a { color: #2E4053;
+    text-decoration: none;   
+}
+    a:hover{ color:#EBF163}
+
+.main_info {
+        width: 100%;
+        height: 560px;
+        background-color: #E5E8E8;
+    }
+.main-info-header{
+        color: #424949;
+        padding-top: 32px;
+        text-align: center;
+        
+    }
+ /*product1*/   
+.product1 {
+        width: 430px;
+        height: 380px;
+        margin-left: 72px;
+        margin-right: 16px;
+        background-color: white;
+        margin-top: 16px;
+    }
+.product1:hover{
+            transform: scale(1.02);
+    }
+.product1-img{
+        width: 430px;
+        height: 190px;
+        
+    }
+.product1-text{
+        width: 430px;
+        height: 190px;
+        padding-bottom: 16px;
+        margin-left: 16px;
+    }
+.product1-text h3{
+        margin-top: 16px;
+        margin-bottom: 16px;
+        color:#424949;
+    }
+    .product1-text p{
+        margin-top: 8px;
+        margin-bottom: 8px;
+        color:#85929E;
+    }
+/*product2*/
+.product2 {
+        width: 430px;
+        height: 380px;
+        margin-left: 16px;
+        margin-right: 16px;
+        background-color: white;
+        margin-top: 16px;
+    }
+.product2:hover{
+        transform: scale(1.02);}
+    
+.product2-img{
+        width: 430px;
+        height: 190px;
+        
+    }
+.product2-text{
+        width: 430px;
+        height: 190px;
+        padding-bottom: 16px;
+        margin-left: 16px;
+    }
+.product2-text h3{
+        margin-top: 16px;
+        margin-bottom: 16px;
+        color:#424949;
+    }
+.product2-text p{
+        margin-top: 8px;
+        margin-bottom: 8px;
+        color:#85929E;
+    }
+        
+/*product3*/
+    
+.product3 {
+            width: 430px;
+            height: 380px;
+            margin-left: 16px;
+            margin-right: 72px;
+            background-color: white;
+            margin-top: 16px;
+        }
+.product3:hover{
+            transform: scale(1.02);}
+    
+.product3-img{
+            width: 430px;
+            height: 190px;
+            
+        }
+.product3-text{
+            width: 430px;
+            height: 190px;
+            padding-bottom: 16px;
+            margin-left: 16px;
+           
+        }
+.product3-text h3{
+            margin-top: 16px;
+            margin-bottom: 16px;
+            color:#424949;
+        }
+.product3 p{
+            margin-top: 8px;
+            margin-bottom: 8px;
+            color:#85929E;
+        }
+
+/* Footer*/
+footer {
+        
+    border-top: solid 2px #ECEFF1 ; }
+.footer-left{
+    float:left;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.footer-right{
+    float:right;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.rights-reserved{
+    color:#85929E;
+    font-size: 12px;
+    width: 400px;
+    height: 44px;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 16px;
+    
+}
+
+.footer-right a{
+    color:#85929E;
+    font-size: 12px;
+}
